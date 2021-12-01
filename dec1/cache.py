@@ -190,16 +190,7 @@ class Cache():
     print("eviction line:", evictionLine)
     print("ram address:", memIndex)
     print("data:", data)
-
+    
 
   
 
-
-
-
-
-    
-
-
-
-#IF YOU CAN READ THIS,  SEND ME 5 DOLLARS
