@@ -1,1 +1,2 @@
-# adamsulemanji
+# ADAM SULEMANJI and TRISTAN NIGOS
+
